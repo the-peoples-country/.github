@@ -3,7 +3,7 @@ name: Citizenship Request
 about: A request for citizenship in The People's Country
 title: Citizenship Request - The People's Country
 labels: ''
-assignees: theluiscarbonell
+assignees: 
 
 ---
 
